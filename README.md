@@ -1,4 +1,4 @@
-# Binance Futures Public API Connector Python
+a673c2d4bf06b65a453d2555841f8142f920faaa# Binance Futures Public API Connector Python
 [![Python version](https://img.shields.io/pypi/pyversions/binance-futures-connector)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
